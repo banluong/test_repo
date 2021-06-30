@@ -1,4 +1,13 @@
 # test_repo
 
 this is a test
+<<<<<<< HEAD
 this is a test on test branch on 30th June, 2021 at 21:50.
+=======
+
+this is another test, on 30th June 2021, at 21:48.
+
+this is a test on test branch on 30th June, 2021 at 21:50.
+
+this is a test on test branch on 30th June, 2021 at 22:22.
+>>>>>>> main
